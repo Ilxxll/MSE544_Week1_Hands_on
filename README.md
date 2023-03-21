@@ -87,7 +87,8 @@ your UW user id should replace USERID.
 
 #### Try to use some common commands:
 
-cd (change directory), ls (list), pwd (print working directory), mkdir (create new directory), rm (remove), vi (open file with the vim editor)
+cd (change directory), ls (list), pwd (print working directory), mkdir (create new directory), 
+rm (remove), vi (open file with the vim editor)
 
 <img src="./image/Common_command_line.png" style="height: 75%; width: 60%;"/>
 
