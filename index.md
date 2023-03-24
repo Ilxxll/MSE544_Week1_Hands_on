@@ -1,3 +1,5 @@
+layout: hacker
+
 # MSE544_Week1_Hands_on
 
 ## Hands-on 1: Sign up for Hyak and Use some basic Command line
