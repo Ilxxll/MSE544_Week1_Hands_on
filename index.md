@@ -34,12 +34,12 @@ Read the `wiki page for Hyak` and get familiar with Hyak setup.The wiki provides
 
 You can use Spotlight Search to open Terminal:
 - Open Spotlight Search by pressing `Command + Space` on your keyboard.
-- Type 'Terminal' in the search bar and press enter. This will open the Terminal application.
+- Type `Terminal` in the search bar and press enter. This will open the Terminal application.
 
 Or you can use Launchpad to open Terminal:
 - Click on the `Launchpad` icon in the Dock.
 - In the Launchpad screen, type `Terminal` in the search bar at the top of the screen.
-- Once you see the Terminal app icon, click on it to open the Terminal.
+- Once you see the `Terminal` app icon, click on it to open the Terminal.
 
 #### For windows user: You can use `Windows Terminal`
 
